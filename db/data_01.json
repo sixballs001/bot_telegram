@@ -1,0 +1,32 @@
+{
+    "city_01": {
+        "city": "Бованенково",
+        "lon": 70.36,
+        "lat": 68.44,
+        "appid": "7747a6d446a3bdf00f403d9b4bf3f207",
+        "units": "metric"},
+    "city_02": {
+        "city": "Харасавэй",
+        "lon": 71.18,
+        "lat": 66.88,
+        "appid": "7747a6d446a3bdf00f403d9b4bf3f207",
+        "units": "metric"},
+    "city_03": {
+        "city": "Новый Уренгой",
+        "lon": 66.07,
+        "lat": 76.52,
+        "appid": "7747a6d446a3bdf00f403d9b4bf3f207",
+        "units": "metric"},
+    "city_04": {
+        "city": "Омск",
+        "lon": 54.99,
+        "lat": 73.36,
+        "appid": "7747a6d446a3bdf00f403d9b4bf3f207",
+        "units": "metric"},
+    "city_05": {
+        "city": "Уфа",
+        "lon": 54.74,
+        "lat": 55.96,
+        "appid": "7747a6d446a3bdf00f403d9b4bf3f207",
+        "units": "metric"}
+}
