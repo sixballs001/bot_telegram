@@ -4,9 +4,10 @@ import requests
 import telebot
 from telebot import types
 import pygeos
+from config import token, APPID
 
 
-bot = telebot.TeleBot('5844918758:AAHtkVlKutKodtiiUAbXiHQZLvV4vTrbiAU')
+bot = telebot.TeleBot(token)
 api_url = 'http://api.openweathermap.org/data/2.5/weather'
 spisok_gorodov = json.load(open('db/data_01.json', 'r', encoding='utf-8'))# загрузка из файл
 today = date.today()# год месяц число
