@@ -5,7 +5,7 @@ import telebot
 from telebot import types
 import pygeos
 from config import token, APPID
-#new raw
+#new rawgit
 
 bot = telebot.TeleBot(token)
 api_url = 'http://api.openweathermap.org/data/2.5/weather'
